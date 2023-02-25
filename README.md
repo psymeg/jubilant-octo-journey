@@ -18,6 +18,16 @@ Note: code in this package is written on Linux. If running on windows you may ne
 
 ### Methods
 
+General approach is not to reinvent the wheel. The following github projects were reviewed:
+
+https://github.com/CodeShredder726b/HarvardX_PH125.9x_Capstone_MovieLens
+
+https://github.com/BN33/MovieLens-Project-HarvardX-PH125.9x-Data-Science-Capstone
+
+https://github.com/EDXGarza/MovieLens_PH125.9x
+
+https://github.com/123-adi/PH125.9x-Movielens
+
 #### Processes and techniques used
 
 #### Data cleaning
