@@ -34,6 +34,8 @@ Note: code in this package is written on Linux. If running on windows you may ne
 
 #### Future work
 
+It would be interesting to see the RMSE that chatgpt could come up with.
+
 ### References
 
 1. http://rafalab.dfci.harvard.edu/dsbook/large-datasets.html#recommendation-systems
